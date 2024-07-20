@@ -2,4 +2,4 @@
 #EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.1.9", Test 1
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2136674526_b384000_sleng.m3u8
 
-#EXTM3U x-tvg-url="", billed-till="2023-09-16T23:59:58.75", billed-msg="Balance 1000₹", vod_library="https://raw.githubusercontent.com/romano2/haha/main/test.ref.json"
+#EXTM3U vod_library="https://raw.githubusercontent.com/romano2/haha/main/test.ref.json"
