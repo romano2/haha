@@ -1,4 +1,4 @@
-#EXTM3U vod_library="https://raw.githubusercontent.com/romano2/haha/main/001.md"
+#EXTM3U vod_library="https://raw.githubusercontent.com/romano2/haha/main/test.ref.json"
 
 #EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.1.9", Test 1
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2136674526_b384000_sleng.m3u8
