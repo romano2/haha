@@ -28,6 +28,22 @@
 },
 "video": "http://23.226.71.75/TqLPJwF1ycBY-N_X1Evd_aRL0JB5wQslYEs5JTQ-F0bhFWYvWHx9BDASSplLy5W9-mWy-007j8hjAP1PgMciTQ/sD0KQiBgtGewCGFzS5gF4PNPrcJsbhY0CXGAeHuF2VU/video.m3u8",
 "headers": {
+"referrer": "http://172.96.161.72/"
+}
+},
+
+{
+"name": "The Doll 2C (2017)",
+"type": "Movie",
+"category": "Horror",
+"info": {
+"poster": "https://image.tmdb.org/t/p/w185/y10Ll8lFOIZNIVxvraVirT1GMT5.jpg",
+"bg": "",
+"plot": "test referrer",
+"year": "2017"
+},
+"video": "http://23.226.71.75/TqLPJwF1ycBY-N_X1Evd_aRL0JB5wQslYEs5JTQ-F0bhFWYvWHx9BDASSplLy5W9-mWy-007j8hjAP1PgMciTQ/sD0KQiBgtGewCGFzS5gF4PNPrcJsbhY0CXGAeHuF2VU/video.m3u8",
+"headers": {
 "EXTVLCOPT": "http-referrer=http://172.96.161.72/"
 }
 }
